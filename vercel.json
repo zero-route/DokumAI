@@ -1,0 +1,8 @@
+ 
+{
+  "functions": {
+    "api/telegram.js": {
+      "includeFiles": "node_modules/pdfjs-dist/legacy/build/pdf.worker.mjs"
+    }
+  }
+}
