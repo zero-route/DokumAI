@@ -1,7 +1,7 @@
 
 {
   "name": "dokumai",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
   "type": "module",
   "description": "Telegram AI Document Assistant powered by Gemini",
@@ -11,6 +11,8 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.57.0",
     "mammoth": "^1.9.1",
-    "pdfjs-dist": "4.10.38"
+    "pdfjs-dist": "4.10.38",
+    "xlsx": "^0.18.5",
+    "jszip": "^3.10.1"
   }
 }
